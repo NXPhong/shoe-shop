@@ -1,5 +1,5 @@
 <?php
-$conn = new mysqli("localhost", "root", "", "long");
+$conn = new mysqli("localhost", "root", "", "phong");
 
 if ($conn->connect_error) {
     die("Kết nối thất bại: " . $conn->connect_error);
