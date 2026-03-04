@@ -14,9 +14,9 @@
         <div class="footer_main">
             <div class="tag">
                 <h1>Contact</h1>
-                <a href="#"><i class="fa-solid fa-house"></i>123/ Lĩnh Nam/ Hà Nội</a>
-                <a href="#"><i class="fa-solid fa-phone"></i>+84 329488038</a>
-                <a href="#"><i class="fa-solid fa-envelope"></i>phungduclong268@gmail.com</a>
+                <a href="#"><i class="fa-solid fa-house"></i>Hà Nội</a>
+                <a href="#"><i class="fa-solid fa-phone"></i>+84 989568865</a>
+                <a href="#"><i class="fa-solid fa-envelope"></i>phonglec098@gmail.com</a>
 
             </div>
 
